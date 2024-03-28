@@ -6,7 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://stairmasterclimber.com/</loc>
-    <lastmod>2022-05-29T05:40:39+00:00</lastmod>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
     <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://stairmasterclimber.com/index-fr.html</loc>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://stairmasterclimber.com/index-ge.html</loc>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://stairmasterclimber.com/index-zh.html</loc>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://stairmasterclimber.com/app</loc>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://stairmasterclimber.com/privacy-policy.html</loc>
+    <lastmod>2024-03-28T05:40:39+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
 </urlset>
